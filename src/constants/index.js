@@ -55,9 +55,15 @@ const rescueAgencies = [
     },
     {
       name: "Safety Zone",
-      location: "Mountaintown",
-      latitude: 39.5501,
-      longitude: -105.7821,
+      location: "Thampanoor",
+      latitude: 8.4909,
+      longitude: 76.9527,
+    },
+    {
+      name: "Rescue-Hub",
+      location: "Pattom",
+      latitude: 8.5207,
+      longitude: 76.9423,
     },
   ];
   
