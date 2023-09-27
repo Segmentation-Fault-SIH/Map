@@ -49,9 +49,9 @@ const rescueAgencies = [
     },
     {
       name: "Rescue Heroes",
-      location: "Beachville",
-      latitude: 25.7617,
-      longitude: -80.1918,
+      location: "Nalanchira",
+      latitude: 8.5392,
+      longitude: 76.9480,
     },
     {
       name: "Safety Zone",
